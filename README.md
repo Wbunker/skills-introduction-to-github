@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Will Bunker 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn new things.
 
